@@ -18,4 +18,5 @@ A collection of tools and apps built using the nsite spec which extends the Blos
 ## Available nsite hosts
 
 - [nsite.lol](https://nsite.lol)
+- [nosto.re](https://nosto.re)
 - [nostrdeploy.com](https://nostrdeploy.com)
