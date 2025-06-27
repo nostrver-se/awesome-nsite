@@ -4,6 +4,10 @@ A collection of tools and apps built using the nsite spec which extends the Blos
 - [nsite spec](https://github.com/hzrd149/nips/blob/nsite/nsite.md)
 - [Blossom spec](https://github.com/hzrd149/blossom)
 
+## Resources
+- [nsite.info](https://nsite.info) Information and resources for nsite and various tools to inspect nsites.
+- [nsite.run](https://nsite.run) Information and resources for nsite 
+
 ## Tools
 
 - [nsite-gateway](https://github.com/hzrd149/nsite-gateway) Typescript gateway for simple static websites on nostr
@@ -14,6 +18,7 @@ A collection of tools and apps built using the nsite spec which extends the Blos
 - [nous-cli](https://gitlab.com/soapbox-pub/nous-cli) CLI deployment tool
 - [nostr-deploy-cli](https://github.com/sepehr-safari/nostr-deploy-cli) CLI tool for deploying static sites using the Nostr protocol and Blossom servers
 - [nostr-deploy-server](https://github.com/sepehr-safari/nostr-deploy-server) A Node.js server implementation for serving nsites
+- [nsite debugger](https://nsite.info/debug) A tool to debug nsites.
 
 ## Available nsite hosts
 
