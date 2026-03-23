@@ -9,8 +9,9 @@ A collection of tools and apps built using the nsite spec which extends the Blos
 - [Original nsite NIP draft by Lez](https://github.com/hzrd149/nips/commit/41e77b45a1e8a8d170097e363f7d7254797cc5c5)
 
 ## Resources
-- [nsite.info](https://nsite.info) Information and resources for nsite and various tools to inspect nsites.
-- [nsite.run](https://nsite.run) Information and resources for nsite 
+- [nsite.run](https://nsite.run) Information and resources for nsite
+- [nsite.info](https://nsite.info) Information and resources for nsite and various tools to inspect nsites
+- [Static website / nsites positive interoperability tracker](https://github.com/nostrability/nostrability/issues/287)
 
 ## Tools
 
