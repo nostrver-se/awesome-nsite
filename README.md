@@ -16,19 +16,26 @@ A collection of tools and apps built using the nsite spec which extends the Blos
 ## Tools
 
 - [nsite-gateway](https://github.com/hzrd149/nsite-gateway) Typescript gateway for simple static websites on nostr
-- [nsite-manager](https://github.com/hzrd149/nsite-manager) A management dashboard for your nsites
-- [nsite-cli](https://github.com/flox1an/nsite-cli) CLI deployment tool
 - [nsyte](https://github.com/sandwichfarm/nsyte) CLI deployment tool
 - [nsite-action](https://github.com/sandwichfarm/nsite-action) A Github action that deploys nsites to nostr and blossom (using nsyte)
-- [nous-cli](https://gitlab.com/soapbox-pub/nous-cli) CLI deployment tool
-- [nostr-deploy-cli](https://github.com/sepehr-safari/nostr-deploy-cli) CLI tool for deploying static sites using the Nostr protocol and Blossom servers
-- [nostr-deploy-server](https://github.com/sepehr-safari/nostr-deploy-server) A Node.js server implementation for serving nsites
 - [nsite debugger](https://nsite.info/debug) A tool to debug nsites.
 
 ## Available nsite hosts / gateways
 
 - [nsite.lol](https://nsite.lol)
 - [nosto.re](https://nosto.re)
-- [nostrdeploy.com](https://nostrdeploy.com)
 - [nosto.re](https://nosto.re)
 - [nwb.tf](https://nwb.tf)
+- [nsite.run](https://nsite.run)
+
+## No Longer Compatible
+
+- [nous-cli](https://gitlab.com/soapbox-pub/nous-cli) CLI deployment tool
+- [nsite-manager](https://github.com/hzrd149/nsite-manager) A management dashboard for your nsites
+- [nostr-deploy-cli](https://github.com/sepehr-safari/nostr-deploy-cli) CLI tool for deploying static sites using the Nostr protocol and Blossom servers
+- [nostr-deploy-server](https://github.com/sepehr-safari/nostr-deploy-server) A Node.js server implementation for serving nsites
+- [nsite-cli](https://github.com/flox1an/nsite-cli) CLI deployment tool
+
+## Dead
+
+- [nostrdeploy.com](https://nostrdeploy.com)
