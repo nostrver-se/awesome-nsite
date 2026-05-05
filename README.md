@@ -18,6 +18,7 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 ## Tools
 
 - [nsite-gateway](https://github.com/hzrd149/nsite-gateway) Typescript gateway for simple static websites on nostr
+- [nsite-deck](https://gitworkshop.dev/npub1hw6amg8p24ne08c9gdq8hhpqx0t0pwanpae9z25crn7m9uy7yarse465gr/nsite-deck) Locally-running gateway and management UI for browsing, syncing, and caching nsites
 - [nsyte](https://github.com/sandwichfarm/nsyte) CLI deployment tool
 - [nsite-action](https://github.com/sandwichfarm/nsite-action) A Github action that deploys nsites to nostr and blossom (using nsyte)
 - [nsite debugger](https://nsite.info/debug) A tool to debug nsites.
