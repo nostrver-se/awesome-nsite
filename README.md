@@ -24,7 +24,6 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [nsite debugger](https://nsite.info/debug) A tool to debug nsites.
 - [bouquet-android](https://github.com/kengirie/bouquet-android) Android app for viewing nsites, communicating directly with relays and Blossom
 - [nsite.run deployer and manager](https://nsite.run/deploy) Simple web-based nsite deployments and nsite management tool. 
-- [Rostrum](https://github.com/kengirie/rostrum) Web app that publishes PDF slide decks as nsites to show link-preview cards without SSR
 
 ## Available nsite hosts / gateways
 
@@ -35,9 +34,12 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [nsite.cloud](http://nsite.cloud)
 - [shakespeare.to](https://shakespeare.to)
 
+## Clients using nsite
+- [Rostrum](https://github.com/kengirie/rostrum) Web app that publishes PDF slide decks as nsites to show link-preview cards without SSR
+
 ---
 
-## No Longer Compatible
+### ✖️ No longer compatible
 
 - [nous-cli](https://gitlab.com/soapbox-pub/nous-cli) CLI deployment tool
 - [nsite-manager](https://github.com/hzrd149/nsite-manager) A management dashboard for your nsites
@@ -45,6 +47,6 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [nostr-deploy-server](https://github.com/sepehr-safari/nostr-deploy-server) A Node.js server implementation for serving nsites
 - [nsite-cli](https://github.com/flox1an/nsite-cli) CLI deployment tool
 
-## Dead
+### ✖️ No longer available
 
 - [nostrdeploy.com](https://nostrdeploy.com)
