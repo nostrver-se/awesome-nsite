@@ -26,7 +26,7 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [nsite.run deployer and manager](https://nsite.run/deploy) Simple web-based nsite deployments and nsite management tool. 
 - [nsite-clay](https://github.com/jooray/nsite-clay) A self-editable nsite: one HTML file that edits and republishes itself, hosted on Nostr
 
-## Available nsite hosts / gateways
+## nsite hosts / gateways
 
 - [nsite.lol](https://nsite.lol)
 - [nosto.re](https://nosto.re)
@@ -35,7 +35,7 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [nsite.cloud](http://nsite.cloud)
 - [shakespeare.to](https://shakespeare.to)
 
-## Clients using nsite
+## Clients / apps using nsite
 - [Rostrum](https://github.com/kengirie/rostrum) Web app that publishes PDF slide decks as nsites to show link-preview cards without SSR.
 - [Ditto browser extension](https://chromewebstore.google.com/detail/ditto-extension/fbiegkepanmjielbemkhieckmlckiagi) This browser extension provides a feature for saving any webpage in your browser as a nsite ([source](https://gitlab.com/soapbox-pub/ditto-extension/-/blob/main/src/hooks/useArchivePublisher.ts)).
 
