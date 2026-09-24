@@ -13,7 +13,7 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 ## Resources
 - [nsite.run](https://nsite.run) Information and resources for nsite
 - [nsite.info](https://nsite.info) Information and resources for nsite and various tools to inspect nsites
-- [Static website / nsites positive interoperability tracker](https://github.com/nostrability/nostrability/issues/287)
+- [Static website / nsites positive interoperability tracker](https://gitworkshop.dev/npub1zafcms4xya5ap9zr7xxr0jlrtrattwlesytn2s42030lzu0dwlzqpd26k5/relay.ngit.dev/nostrability/issues/nevent1qy28wumn8ghj7un9d3shjtnwva5hgtnyv4mqqgrulhx0mpztdcacnye98k62uwt9evpzggargehv3j3ny8rn5zdhcvlgcvr2)
 
 ## Tools
 
