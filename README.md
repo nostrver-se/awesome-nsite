@@ -35,7 +35,8 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [shakespeare.to](https://shakespeare.to)
 
 ## Clients using nsite
-- [Rostrum](https://github.com/kengirie/rostrum) Web app that publishes PDF slide decks as nsites to show link-preview cards without SSR
+- [Rostrum](https://github.com/kengirie/rostrum) Web app that publishes PDF slide decks as nsites to show link-preview cards without SSR.
+- [Ditto browser extension](https://chromewebstore.google.com/detail/ditto-extension/fbiegkepanmjielbemkhieckmlckiagi) This browser extension provides a feature for saving any webpage in your browser as a nsite ([source](https://gitlab.com/soapbox-pub/ditto-extension/-/blob/main/src/hooks/useArchivePublisher.ts)).
 
 ---
 
