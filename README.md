@@ -25,6 +25,7 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [bouquet-android](https://github.com/kengirie/bouquet-android) Android app for viewing nsites, communicating directly with relays and Blossom
 - [nsite.run deployer and manager](https://nsite.run/deploy) Simple web-based nsite deployments and nsite management tool. 
 - [nsite-clay](https://github.com/jooray/nsite-clay) A self-editable nsite: one HTML file that edits and republishes itself, hosted on Nostr
+- [ngit](https://ngit.dev/) With `ngit nsite` you can publish a nsite from the command-line interface.
 
 ## nsite hosts / gateways
 
