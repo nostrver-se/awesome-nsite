@@ -24,6 +24,7 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [nsite debugger](https://nsite.info/debug) A tool to debug nsites.
 - [bouquet-android](https://github.com/kengirie/bouquet-android) Android app for viewing nsites, communicating directly with relays and Blossom
 - [nsite.run deployer and manager](https://nsite.run/deploy) Simple web-based nsite deployments and nsite management tool. 
+- [Rostrum](https://github.com/kengirie/rostrum) Web app that publishes PDF slide decks as nsites to show link-preview cards without SSR
 
 ## Available nsite hosts / gateways
 
